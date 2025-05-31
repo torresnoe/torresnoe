@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://cdn.pixabay.com/photo/2016/11/27/08/19/logo-1862301_1280.png)
 
 
 # Hola, Mi nombre es Noé Torres 👋
