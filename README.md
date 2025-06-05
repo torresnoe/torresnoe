@@ -12,6 +12,15 @@ I'm a full stack developer...
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** Python, R, SQL, JavaScript  
+- **IA/PLN:** Scikit-learn, NLTK, spaCy, TensorFlow  
+- **Datos Geoespaciales:** QGIS, ArcGIS, GeoPandas  
+- **Otras herramientas:** Git, GitHub, Jupyter, VSCode, Docker  
+- **Áreas:** Ciencia de Datos, Minería de Texto, Visualización, Modelos Predictivos
+
+---
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://torresgisdev.com/)
