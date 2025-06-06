@@ -17,29 +17,7 @@ Soy un profesional con formación multidisciplinaria en geoinformática y tecnol
 
 ---
 
-## 🧠 Tecnologías que domino
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-76B900?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GeoServer-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GeoNode-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/OpenLayers-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Leaflet-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-
- 
-</p>
-
----
-## 🧭 Tecnologías y Herramientas que domino Dominadas como Geoinformático
+## 🧭 Tecnologías y Herramientas que domino
 
 | Categoría | Tecnologías / Herramientas | Descripción |
 |----------|-----------------------------|-------------|
