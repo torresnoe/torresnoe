@@ -26,7 +26,75 @@ Soy un profesional con formación multidisciplinaria en geoinformática y tecnol
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeoServer-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeoNode-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/OpenLayers-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Leaflet-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+
+ 
 </p>
+
+---
+## 🧭 Tecnologías y Herramientas que domino Dominadas como Geoinformático
+
+| Categoría | Tecnologías / Herramientas | Descripción |
+|----------|-----------------------------|-------------|
+| 🗺️ **SIG (GIS)** | `QGIS`, `ArcGIS`, `gvSIG`, `GRASS GIS` | Análisis, gestión y visualización de datos espaciales |
+| 🧑‍💻 **Lenguajes** | `Python`, `R`, `SQL`, `JavaScript` | Automatización, análisis espacial, desarrollo de mapas y APIs web |
+| 🧪 **Librerías Geo** | `GeoPandas`, `rasterio`, `shapely`, `pyproj`, `sf`, `terra` | Procesamiento y análisis de datos vectoriales y ráster |
+| 🌍 **Teledetección** | `Google Earth Engine`, `SNAP`, `ENVI`, `ERDAS Imagine` | Clasificación de imágenes satelitales, NDVI, monitoreo ambiental |
+| 🌐 **Web Geo** | `Leaflet`, `OpenLayers`, `Mapbox GL JS`, `GeoServer`, `MapServer` | Creación de mapas interactivos y servicios geoespaciales |
+| 🧠 **IA y Ciencia de Datos** | `Scikit-learn`, `TensorFlow`, `Keras`, `XGBoost`, `Pandas`, `Seaborn` | Modelado predictivo, segmentación, clasificación espacial |
+| 🗂️ **Bases de Datos Espaciales** | `PostGIS`, `SpatiaLite`, `MySQL + GIS`, `MongoDB + GeoJSON`, `Oracle Spatial` | Modelado y consulta de datos espaciales (2D y 3D), análisis topológico |
+| 🔄 **ETL y Big Data** | `FME`, `Talend`, `Apache Spark`, `GeoMesa`, `GeoTrellis` | Transformación y procesamiento de grandes volúmenes de datos espaciales |
+| 🔗 **Estándares y Formatos OGC** | `WMS`, `WFS`, `WCS`, `GML`, `KML`, `GeoJSON`, `Shapefile`, `GeoTIFF` | Intercambio de datos espaciales e interoperabilidad |
+| ☁️ **Nube Geoespacial** | `Google Earth Engine`, `Sentinel Hub`, `AWS S3 + Open Data`, `Microsoft Planetary Computer` | Procesamiento remoto de datos satelitales y almacenamiento geoespacial en la nube |
+
+
+
+
+## 🌐 Áreas de Especialización
+
+### 🗺️ Geoinformática
+
+| Categoría | Herramientas / Tecnologías | Descripción |
+|----------|-----------------------------|-------------|
+| SIG y Análisis Espacial | `ArcGIS`, `QGIS`, `SAGA GIS`, `GRASS GIS` | Análisis geoespacial, modelado de datos territoriales |
+| Teledetección | `ENVI`, `ERDAS Imagine`, `Google Earth Engine` | Procesamiento de imágenes satelitales y datos raster |
+| Programación GIS | `Python (geopandas, rasterio)`, `R`, `GDAL` | Automatización y desarrollo de scripts geoespaciales |
+| Visualización y Cartografía | `Leaflet`, `Mapbox`, `Kepler.gl`, `D3.js` | Representación interactiva de datos espaciales |
+| Bases de Datos Espaciales | `PostGIS`, `SpatiaLite`, `GeoServer` | Gestión de bases espaciales y publicación de servicios web |
+
+---
+
+### 💻 Tecnologías de la Información y Comunicación (TIC)
+
+| Categoría | Tecnologías / Herramientas | Descripción |
+|----------|-----------------------------|-------------|
+| Desarrollo Web/App | `HTML`, `CSS`, `JavaScript`, `Python`, `Java`, `PHP`, `Flutter` | Desarrollo de sitios, apps móviles y sistemas responsivos |
+| Bases de Datos | `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite` | Modelado, gestión y consulta de datos |
+| Redes y Comunicaciones | `Cisco`, `Wireshark`, `Packet Tracer` | Configuración de redes, VLANs, monitoreo |
+| Nube y Virtualización | `AWS`, `Azure`, `Docker`, `VirtualBox` | Implementación de sistemas escalables y ambientes virtuales |
+| Herramientas Colaborativas | `Moodle`, `Teams`, `Trello`, `Google Workspace` | Gestión de proyectos, entornos educativos y colaboración |
+| Seguridad TIC | `VPN`, `TLS/SSL`, `Antivirus`, `Firewall`, `Backups` | Protección de sistemas y transferencia segura de información |
+
+---
+
+### 🧠 Ciencias Computacionales (IA y PLN)
+
+| Categoría | Tecnologías / Herramientas | Descripción |
+|----------|-----------------------------|-------------|
+| Programación Avanzada | `Python`, `C++`, `Rust`, `Java`, `Scala`, `Prolog`, `Haskell` | Solución de problemas computacionales complejos |
+| Inteligencia Artificial | `TensorFlow`, `Keras`, `PyTorch`, `Scikit-learn` | Modelado predictivo, redes neuronales, clasificación |
+| Procesamiento del Lenguaje Natural | `spaCy`, `NLTK`, `Hugging Face`, `OpenAI`, `Gensim` | Análisis semántico, generación de texto, extracción de entidades |
+| Ciencia de Datos | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter` | Limpieza, exploración y visualización de datos |
+| Big Data & Bases NoSQL | `Apache Spark`, `Kafka`, `MongoDB`, `Neo4j` | Procesamiento masivo de datos estructurados y no estructurados |
+| Computación Científica | `MATLAB`, `SageMath`, `Octave`, `SciPy`, `Maple` | Resolución de modelos matemáticos y simulaciones |
+| Lógica y Algoritmos | Estructuras de datos, grafos, autómatas, programación dinámica | Fundamentos teóricos de la computación eficiente |
 
 ---
 <!-- Encabezado animado opcional 
